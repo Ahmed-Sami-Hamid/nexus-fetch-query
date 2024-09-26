@@ -1,7 +1,7 @@
 {
   "name": "@nexussoftware/fetch-query",
   "description": "Simple way to manage your api calls",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "react",
     "javascript",
